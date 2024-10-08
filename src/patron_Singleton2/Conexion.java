@@ -22,6 +22,6 @@ public class Conexion {
     //MÉTODO FUNCIONAL
     public void desconectar() {
 	System.out.println("Desconexión exitosa de la BD");
-         //Hola estas??
+         //Hola estas?? estoy bien sisiis
     }
 }
